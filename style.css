@@ -1,0 +1,8 @@
+body{
+    background-color: #333;
+}
+.app{
+    background-color: #000;
+    display: inline-flex;
+    margin-left: 600px;
+}
